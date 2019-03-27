@@ -1,0 +1,31 @@
+{
+    "AS_Image_d9f2d507b2f746feae0f0b3467d6c804": {
+        "id": "AS_Image_d9f2d507b2f746feae0f0b3467d6c804",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fd3a53b553de490e997e18bc4fec4bff",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onImgClick",
+            "display": "onImgClick",
+            "inputparams": [{
+                "name": "obj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

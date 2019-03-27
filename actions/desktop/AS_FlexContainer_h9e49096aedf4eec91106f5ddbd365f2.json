@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_h9e49096aedf4eec91106f5ddbd365f2": {
+        "id": "AS_FlexContainer_h9e49096aedf4eec91106f5ddbd365f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c36eb0958683411a8180620ab7cfa8bd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToForm(\"frmLogin\");",
+            "parentId": null
+        }]
+    }
+}

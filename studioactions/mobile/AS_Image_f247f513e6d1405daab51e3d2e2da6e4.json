@@ -1,0 +1,30 @@
+{
+    "AS_Image_f247f513e6d1405daab51e3d2e2da6e4": {
+        "id": "AS_Image_f247f513e6d1405daab51e3d2e2da6e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abd82e77b3274380aa0df5a3714c17cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h26b7e0a3e0b40db90e498b9c69bac6d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.performSyncHome();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

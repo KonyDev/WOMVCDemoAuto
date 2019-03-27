@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "31px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "_skin_": "sa9f138969294a02b98045593338f566",
+    "_text_": "Add",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s3629c63f06d4a5f812e6086c12a9557"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "seadb3bbc42d4239b139b2a89250ab28",
+    "id": "btnAddWo",
+    "ide_onClick": "AS_Button_d2d3b3e1ba294bf0b49d7b246dbeefc5",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e93788af02834229b5e38dfe3cd77304",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_d2d3b3e1ba294bf0b49d7b246dbeefc5",
+    "paddinginpixel": false,
+    "parent": "CopyflxName02b0af50e5a5748",
+    "pf": "frmAddWO",
+    "wType": "Button",
+    "zindex": 1
+}

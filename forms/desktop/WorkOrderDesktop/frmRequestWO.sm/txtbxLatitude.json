@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "160px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "please enter",
+    "_skin_": "sbd5699ae4574738a809f185c07e9fdd",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "488px"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "desktopweb": {
+        "ide_onBeginEditing": "AS_TextField_fa13d1d000e24562b7fa8cae3050d2df",
+        "onBeginEditing": "AS_TextField_fa13d1d000e24562b7fa8cae3050d2df"
+    },
+    "id": "txtbxLatitude",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "e6edbb896d82440a8222176e3776e3f3",
+    "maxtextlength": "",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "CopyFlexContainer0g24e2f93b20a45",
+    "pf": "frmRequestWO",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

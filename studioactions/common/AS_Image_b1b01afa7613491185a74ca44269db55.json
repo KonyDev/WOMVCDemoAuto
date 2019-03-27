@@ -1,0 +1,30 @@
+{
+    "AS_Image_b1b01afa7613491185a74ca44269db55": {
+        "id": "AS_Image_b1b01afa7613491185a74ca44269db55",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ifc465ef27ee43d8804b3910ba128907",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onImgCancelClick",
+            "display": "onImgCancelClick",
+            "inputparams": [{
+                "name": "obj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

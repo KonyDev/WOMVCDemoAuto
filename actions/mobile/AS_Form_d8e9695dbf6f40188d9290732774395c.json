@@ -1,0 +1,24 @@
+{
+    "AS_Form_d8e9695dbf6f40188d9290732774395c": {
+        "id": "AS_Form_d8e9695dbf6f40188d9290732774395c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abd82e77b3274380aa0df5a3714c17cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e852b9a196b047ee8ded64a6c6dde8dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(FLAG_NOTIFICATION_COUNT>0)\n  {\n    this.view.lblBadgeCount.setVisibility(true);\n    this.view.lblBadgeCount.text=\"\"+FLAG_NOTIFICATION_COUNT;\n  }\nelse\n  {\n    this.view.lblBadgeCount.setVisibility(false);\n    this.view.lblBadgeCount.text=\"\";\n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

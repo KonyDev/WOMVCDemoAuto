@@ -1,0 +1,99 @@
+{
+  "android": {
+    "font_name": "SF-UI-Text-Light",
+    "font_size": 100,
+    "isForked": false
+  },
+  "background_color": "fc662100",
+  "bg_type": "one",
+  "border_color": "fc6621ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_color": "ff6600ff",
+    "font_name": "frutiger-next-pro-regular",
+    "font_size": 117,
+    "font_weight": "bold",
+    "isForked": true
+  },
+  "fontSizeInPx": false,
+  "font_color": "ff8e13ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "iphone": {
+    "font_name": "SF-UI-Text-Light",
+    "font_size": 100,
+    "isForked": false
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "FontAwesome",
+    "font_size": 100,
+    "isForked": false
+  },
+  "kuid": "sff1a349089a461c80708b630a127bb5",
+  "spaan": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "spaandroidtablet": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "spabb": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "spaip": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "spaipad": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "spawindowstablet": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "spawinphone8": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "FontAwesome",
+    "font_size": 100,
+    "isForked": false
+  },
+  "winphone8": {
+    "font_name": "FontAwesome",
+    "font_size": 100,
+    "isForked": false
+  }
+}

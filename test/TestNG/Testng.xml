@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <!-- <listeners>
+        <listener class-name="unittests.CustomReport" />
+    </listeners>-->
+  <test name="Test">
+	<!-- Add your Functional Test class here -->
+    <classes>
+     
+     <class name="test.WOMVCDemo.tests.LoginTests" >
+     <methods> 
+     <include name = "Login"/>     	       	    
+      </methods>
+      </class>
+     <class name="test.WOMVCDemo.tests.HomeTests" >
+     <methods>  
+     <include name = "addNCompleteWO"/>
+     <include name = "syncData"/>
+     <include name = "subscrptnValidate"/>
+     <include name = "logoutValidate"/>    	       	    
+      </methods>
+      </class>
+          
+            
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

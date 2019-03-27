@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "5.00%"
+    },
+    "_skin_": "s0bb96936a994879ba4c67b284c72cd1",
+    "_src_": "icon_switch_off.png",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "45.69%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmSubscription",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgLocUpdate",
+    "ide_onTouchStart": "AS_Image_feb97a5a24b24ac187086a697ade731d",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "ff8abd2027aa48198bd067909980197c",
+    "name": "kony.ui.Image2",
+    "ontouchstart": "AS_Image_feb97a5a24b24ac187086a697ade731d",
+    "parent": "CopyflxSubscr0i7afeedf9beb43",
+    "pf": "frmSubscription",
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

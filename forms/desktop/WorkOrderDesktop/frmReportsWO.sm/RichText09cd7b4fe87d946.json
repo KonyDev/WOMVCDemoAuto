@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "38px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9d400fa88f34194a2e2ac852b8c792a",
+    "_text_": "<label style='color:#1aa3d7 '>Work Order </label><label style='color:#5b5b5b'>/ Reports</label>",
+    "_top_": {
+        "type": "string",
+        "value": "52px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "RichText09cd7b4fe87d946",
+    "ide_onClick": "AS_RichText_e30cb5941f114b30bb27a89068b69c4a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "abf46afcd2d9447ea2504bf2bcc47c9a",
+    "name": "kony.ui.RichText",
+    "onclick": "AS_RichText_e30cb5941f114b30bb27a89068b69c4a",
+    "parent": "flxSubHeader",
+    "pf": "frmReportsWO",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

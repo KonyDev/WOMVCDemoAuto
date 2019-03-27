@@ -1,0 +1,292 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "btnRequest": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Request"
+            },
+            "lblWODate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11 Jun 2015 12:00 UTC"
+            },
+            "lblWODesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Omnia contraria, quos etiam insanos esse vultis. "
+            },
+            "lblWOStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New"
+            },
+            "lblWOTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Work Order"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "88.20%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "27px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "alternaterowskin": "s49cdb05016b4f90bf7b3efd0c45805d",
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "06",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "ca5f2a85b0584600b99af6afff41039a",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segWOList",
+    "ide_onRowClick": "AS_Segment_fbec677ddc034d938a669ad4aa4e7e27",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f23d379bae144036be7c428e98a9396f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_fbec677ddc034d938a669ad4aa4e7e27",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmWOList",
+    "retainselection": false,
+    "rowTemplateId": "d032eb2215b14ccea0e618c980fe7f6c",
+    "rowcounter": 6,
+    "rowfocusskin": "s0df131461e643839cfc58e34f3dd0a7",
+    "rowskin": "s25b6f0faf324d588389814232912eb4",
+    "rowtemplate": "flxNewWO",
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s2673fc0617b4f40b3c4587168a4e90e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f3f3f400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnAssign": "btnAssign",
+        "btnRequest": "btnRequest",
+        "flxNewWO": "flxNewWO",
+        "flxWOCreatedDate0d01b4478a38543": "flxWOCreatedDate0d01b4478a38543",
+        "flxWOName0f739fc526ace41": "flxWOName0f739fc526ace41",
+        "flxWOStatus0ddacb9804c334f": "flxWOStatus0ddacb9804c334f",
+        "flxWOTech0cf54aba553a342": "flxWOTech0cf54aba553a342",
+        "lblWODate": "lblWODate",
+        "lblWODesc": "lblWODesc",
+        "lblWOStatus": "lblWOStatus",
+        "lblWOTitle": "lblWOTitle"
+    },
+    "zindex": 1
+}

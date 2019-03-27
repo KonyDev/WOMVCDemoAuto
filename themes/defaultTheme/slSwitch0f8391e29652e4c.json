@@ -1,0 +1,41 @@
+{
+  "android": {
+    "background_right_color": "ffffff80",
+    "bg_type": "one",
+    "isForked": true,
+    "thumb_color": "ffffff"
+  },
+  "background_left_color": "48d986ff",
+  "background_right_color": "0c0970ff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_name": "Helvetica",
+  "font_size": 156,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "thumb_color": "ffffff",
+    "tint_color": "e8e8e8"
+  },
+  "iphone": {
+    "thumb_color": "ffffff",
+    "tint_color": "e8e8e8"
+  },
+  "isDefaultSkin": false,
+  "kuid": "sf1aeffefb344735b8334827e3c7f046",
+  "left_font_color": "c5c2bdff",
+  "right_font_color": "c5c2bdff",
+  "tabrcandroid": {
+    "background_right_color": "ffffff80",
+    "bg_type": "one",
+    "isForked": true,
+    "thumb_color": "ffffff"
+  },
+  "wType": "Switch",
+  "watchos": {
+    "isForked": true
+  }
+}

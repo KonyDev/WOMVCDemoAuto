@@ -1,0 +1,35 @@
+{
+    "AS_Image_a96cdf5973a94daf8a7d5e6798c3919e": {
+        "id": "AS_Image_a96cdf5973a94daf8a7d5e6798c3919e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmViewWO",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cab236d28c7744419c40fc322f24882b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_dc82999d4a2c4799929265b29a413c1f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onImgCancelClick",
+            "display": "onImgCancelClick",
+            "inputparams": [{
+                "name": "obj",
+                "value": " eventobject"
+            }],
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

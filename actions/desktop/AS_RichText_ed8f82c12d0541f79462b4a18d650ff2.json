@@ -1,0 +1,29 @@
+{
+    "AS_RichText_ed8f82c12d0541f79462b4a18d650ff2": {
+        "id": "AS_RichText_ed8f82c12d0541f79462b4a18d650ff2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "linktext"
+        }, {
+            "datatype": "string",
+            "name": "attributes"
+        }],
+        "contextObj": {
+            "name": "frmViewWO",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cab236d28c7744419c40fc322f24882b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c0cb9ee74c6d40969464229aa6f3a9a9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToForm(\"frmWOList\");",
+            "callbackType": null
+        }]
+    }
+}

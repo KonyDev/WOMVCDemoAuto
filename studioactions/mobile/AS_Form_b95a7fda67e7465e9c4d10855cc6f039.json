@@ -1,0 +1,24 @@
+{
+    "AS_Form_b95a7fda67e7465e9c4d10855cc6f039": {
+        "id": "AS_Form_b95a7fda67e7465e9c4d10855cc6f039",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotifications",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b5843cb231b9436d9ac49ba3dfd9c14f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ccc3ffbbf30247e999ada74d0c650d0d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "FLAG_NOTIFICATION_COUNT=0;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

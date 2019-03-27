@@ -1,0 +1,34 @@
+{
+    "AS_Image_c6ebee0f469645f7b05296b216bc2b9d": {
+        "id": "AS_Image_c6ebee0f469645f7b05296b216bc2b9d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__efa5fc1c1e08458c9297d334b86c7b32",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.imgDelete.setVisibility(false);\nthis.view.btnDone.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___cde6b7f09d0244aebcad3f13af1228cd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickDelete",
+            "display": "onClickDelete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

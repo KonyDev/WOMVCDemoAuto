@@ -1,0 +1,30 @@
+{
+    "AS_Image_feb97a5a24b24ac187086a697ade731d": {
+        "id": "AS_Image_feb97a5a24b24ac187086a697ade731d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSubscription",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e045d91a237d4d7a8f95e9200b273e7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i6c0448731394071bc05b871f5598b93",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.model.ApplicationContext.showLoadingScreen(\"Updating Location ...\");\nlocationUpdateControllerScope =this;\nupdateLocations();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

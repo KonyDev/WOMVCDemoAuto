@@ -1,0 +1,97 @@
+{
+  "android": {
+    "font_name": "SF-UI-Text-Light",
+    "font_size": 67,
+    "isForked": true
+  },
+  "background_color": "1aa4d700",
+  "bg_type": "one",
+  "border_color": "1aa4d7ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Helvetica",
+    "font_size": 233,
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "1ab394ff",
+  "font_name": "Helvetica",
+  "font_size": 144,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": true
+  },
+  "iphone": {
+    "font_name": "SF-UI-Text-Light",
+    "font_size": 100,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "GenericMonospace",
+    "font_size": 175,
+    "isForked": true
+  },
+  "kuid": "sad9286b0eea44f197628362db6f8a6b",
+  "spaan": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "spabb": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "spaip": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "spaipad": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "font_name": "Helvetica",
+    "font_size": 78,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 166,
+    "isForked": true
+  },
+  "wType": "Label",
+  "watchos": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": true
+  },
+  "windows8": {
+    "font_name": "GenericMonospace",
+    "font_size": 68,
+    "isForked": true
+  },
+  "winphone8": {
+    "font_name": "GenericMonospace",
+    "font_size": 93,
+    "isForked": true
+  }
+}

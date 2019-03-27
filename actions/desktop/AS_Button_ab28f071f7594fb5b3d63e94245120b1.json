@@ -1,0 +1,27 @@
+{
+    "AS_Button_ab28f071f7594fb5b3d63e94245120b1": {
+        "id": "AS_Button_ab28f071f7594fb5b3d63e94245120b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "newWO",
+            "type": "templates",
+            "platform": "",
+            "KUID": "d032eb2215b14ccea0e618c980fe7f6c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cce91b0895b74f7a8df38da62397f4df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.requestWO(eventobject,context);\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

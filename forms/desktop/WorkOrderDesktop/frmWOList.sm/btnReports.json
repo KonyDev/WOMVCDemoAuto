@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "31px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "38px"
+    },
+    "_skin_": "s1a8d64e1d1f46749a3e2b7b2196fa95",
+    "_text_": "Reports",
+    "_top_": {
+        "type": "string",
+        "value": "43px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120px"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "se694b9617a64812b6bdea257e3686df"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s1a8d64e1d1f46749a3e2b7b2196fa95",
+    "id": "btnReports",
+    "ide_onClick": "AS_Button_iaeebb1f0e154ea0931386ad6df0c542",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ecf744e4fe274e88b3e9d034bd2e3aee",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_iaeebb1f0e154ea0931386ad6df0c542",
+    "paddinginpixel": false,
+    "parent": "flxSubHeader",
+    "pf": "frmWOList",
+    "wType": "Button",
+    "zindex": 1
+}

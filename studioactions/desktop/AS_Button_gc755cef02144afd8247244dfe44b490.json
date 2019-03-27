@@ -1,0 +1,36 @@
+{
+    "AS_Button_gc755cef02144afd8247244dfe44b490": {
+        "id": "AS_Button_gc755cef02144afd8247244dfe44b490",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWOList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a16fae5b1fdf44988360df374139826d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___dfccbc852f2145869abf6146127d0b1d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAssignWO",
+            "formKUID": "je1267d6c5fe4241896f2832c0a20706",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true,
+            "package": "WorkOrderDesktop"
+        }, {
+            "id": "ADD_SNIPPET__f9decb43e9824685b5a19ccb747d96d3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//https://testgo.messaging.konycloud.com/api/v1/subscribers\n//The above service is not listing the details of all the subscribers\n//alert(\"Are you sure you want to send Timesheet reminder?\");\n\n/*kony.ui.Alert({\n            message: \"Are you sure you want to send Timesheet reminder?\",\n            alertType: constants.ALERT_TYPE_CONFIRMATION,\n            alertTitle: \"Timesheet Reminder\",\n            yesLabel: \"Ok\",\n            noLabel: \"Cancel\",\n            alertHandler: null\n        }, {});*/\nthis.view.flxSendReminder.isVisible = true;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

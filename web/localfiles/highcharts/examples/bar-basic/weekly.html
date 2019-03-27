@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript">
+
+function asyncCallBackBobJ() {
+  var reportObj = {"chart":{"type":"column"},"title":{"text":"Revenue Report"},
+  "xAxis":{"categories":[]},"credits":{"enabled":false},
+  "series":[{"name":"Revenue","data":[]},{"name":"Margin","data":[]},
+  {"name":"Discount","data":[]}]};
+  
+  //var reportObj = JSON.parse(reportTemplate);
+  for ( i=0; i<5; i++) {
+    reportObj.xAxis.categories.push(2008+i);
+    reportObj.series[0].data.push(1000+10*i);
+    reportObj.series[1].data.push(200);
+    reportObj.series[2].data.push(10);
+   }   
+   var jsonString = JSON.stringify(reportObj);
+   var url = "http://" + "demo3.konylabs.net" + '/highcharts/examples/column-negative/report.htm?title=Revenue Report&json=' + jsonString;
+  kony.print(url);
+   var request = {URL: url, requestMethod:constants.BROWSER_REQUEST_METHOD_GET};
+   frmCharts.browser.requestURLConfig = request;
+    
+}
+		$(function () {
+			var title = getURLParameters('title');
+			document.title = title;
+			var values = getURLParameters('json');
+			values = decodeURI(values);
+			$('#container').highcharts(JSON.parse(values));
+		});
+    
+
+</script>
+	</head>
+	<body>
+<script src="../../js/highcharts.js"></script>
+<script src="../../js/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+	</body>
+</html>

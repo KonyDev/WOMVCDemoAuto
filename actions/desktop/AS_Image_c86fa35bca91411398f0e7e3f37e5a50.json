@@ -1,0 +1,30 @@
+{
+    "AS_Image_c86fa35bca91411398f0e7e3f37e5a50": {
+        "id": "AS_Image_c86fa35bca91411398f0e7e3f37e5a50",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAssignWO",
+            "type": "forms",
+            "platform": "",
+            "KUID": "je1267d6c5fe4241896f2832c0a20706"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e18a9afcaef645d7ac5b77a8ebe65b0e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToForm(\"frmLogin\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

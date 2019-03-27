@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "sf1aeffefb344735b8334827e3c7f046",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "id": "CopySwitch0d0f9483dfe4543",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": false,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "e71e9d8aeb7d4e1cbb8f1e87ab83e789",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "parent": "CopyflxSubscr0i7afeedf9beb43",
+    "pf": "frmSubscription",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

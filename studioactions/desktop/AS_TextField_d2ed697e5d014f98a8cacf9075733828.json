@@ -1,0 +1,27 @@
+{
+    "AS_TextField_d2ed697e5d014f98a8cacf9075733828": {
+        "id": "AS_TextField_d2ed697e5d014f98a8cacf9075733828",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j4361cc599ad46d9b69e933b1520eb45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g3b66a1af987468385a003c8e2dfed8c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//if(this.view.lblErrMsg.isVisible == true)\n//this.view.lblErrMsg.isVisible = false;\nthis.view.lblErrMsg.text=\"\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

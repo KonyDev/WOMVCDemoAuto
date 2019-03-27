@@ -1,0 +1,30 @@
+{
+    "AS_RichText_e30cb5941f114b30bb27a89068b69c4a": {
+        "id": "AS_RichText_e30cb5941f114b30bb27a89068b69c4a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "linktext"
+        }, {
+            "datatype": "string",
+            "name": "attributes"
+        }],
+        "contextObj": {
+            "name": "frmReportsWO",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jc67097070a54f4db4564cdb026ce071"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a21b563abc694fbab1c5e33a37550042",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToForm(\"frmWOList\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

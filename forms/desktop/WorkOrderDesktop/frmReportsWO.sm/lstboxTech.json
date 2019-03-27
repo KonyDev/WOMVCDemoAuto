@@ -1,0 +1,95 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb82ad6613fd465882d51e9b954740a0",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmReportsWO",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "desktopweb": {
+        "psp": {
+            "multiple": false
+        }
+    },
+    "groupcells": false,
+    "id": "lstboxTech",
+    "ide_onSelection": "AS_ListBox_a7d26d2012c344b088c1351394317183",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c44dc8da8a0541ba8f5091752a0aadf4",
+    "masterdata": [
+        [
+            "lb2",
+            "John Smith"
+        ],
+        [
+            "lb3",
+            "Cathey Jones"
+        ],
+        [
+            "Key282",
+            "Ken Meggins"
+        ],
+        [
+            "Key738",
+            "Olga Kaza"
+        ]
+    ],
+    "multiselect": false,
+    "name": "kony.ui.ListBox",
+    "onselection": "AS_ListBox_a7d26d2012c344b088c1351394317183",
+    "paddinginpixel": false,
+    "parent": "flxName",
+    "pf": "frmReportsWO",
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

@@ -1,0 +1,38 @@
+{
+    "AS_Image_bd66df684d71443e908ea8eed0e24ba1": {
+        "id": "AS_Image_bd66df684d71443e908ea8eed0e24ba1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmViewWO",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cab236d28c7744419c40fc322f24882b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_be7dd2ceff2c4e2aa457c09c42ae3609",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.imgDelete.setVisibility(false);\nthis.view.btnDone.setVisibility(true);",
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_d56e794ad22848989297a9e55e8694d4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickDelete",
+            "display": "onClickDelete",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

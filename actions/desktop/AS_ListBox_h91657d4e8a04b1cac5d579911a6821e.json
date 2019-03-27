@@ -1,0 +1,24 @@
+{
+    "AS_ListBox_h91657d4e8a04b1cac5d579911a6821e": {
+        "id": "AS_ListBox_h91657d4e8a04b1cac5d579911a6821e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReportsWO",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jc67097070a54f4db4564cdb026ce071"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fef84bf3d7b04dfca0b68ea7395b3ff3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var techId = this.view.lstboxTech.selectedKeyValue;\nvar window = this.view.lstboxPeriod.selectedKeyValue;\nthis.showReport(techId[0],window[0]);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

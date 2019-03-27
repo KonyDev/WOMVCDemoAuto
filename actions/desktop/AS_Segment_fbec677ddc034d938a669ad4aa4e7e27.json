@@ -1,0 +1,30 @@
+{
+    "AS_Segment_fbec677ddc034d938a669ad4aa4e7e27": {
+        "id": "AS_Segment_fbec677ddc034d938a669ad4aa4e7e27",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmWOList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a16fae5b1fdf44988360df374139826d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aad656619c4a464c84d7875b8789515d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var data=this.view.segWOList.selectedRowItems[0];\nvar ntf = new kony.mvc.Navigation(\"WorkOrderDesktop/frmViewWO\");\n    ntf.navigate(data);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

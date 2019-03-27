@@ -1,0 +1,30 @@
+{
+    "AS_Image_a298115fdea54b76bbc834f63ee01990": {
+        "id": "AS_Image_a298115fdea54b76bbc834f63ee01990",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSubscription",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e045d91a237d4d7a8f95e9200b273e7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b816e5214ae24d728157fbcd47e99240",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//deregisterPush();\n//alert(JSON.stringify(this.view.imgSubscribe.src));\nFLAG_SUBSCRIBE = false;\nif((this.view.imgSubscribe.src).toString().search(\"icon_switch_on\") >=0)\n{\n\tthis.view.imgSubscribe.src = \"icon_switch_off.png\";\n\tderegisterPush();\n} \nelse\n{\n  this.view.imgSubscribe.src = \"icon_switch_on.png\";\n  setPushCallbacks();\n  registerPush();\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_ef712106b0324d2fa2c68081abafaa1e": {
+        "id": "AS_Button_ef712106b0324d2fa2c68081abafaa1e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewWO",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cab236d28c7744419c40fc322f24882b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d640929e6c0545c99c7cf74df3851260",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.imgDelete.setVisibility(true);\nthis.view.btnDone.setVisibility(false);",
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onClick_ea476395f1384785b2b41e5d120d758a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickDone",
+            "display": "onClickDone",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": false,
+            "source": "controller"
+        }]
+    }
+}

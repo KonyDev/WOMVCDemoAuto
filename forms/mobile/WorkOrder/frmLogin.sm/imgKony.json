@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "8.20%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s037fb65e5674ac09090de5eb24c6bca",
+    "_src_": "logo.png",
+    "_top_": {
+        "type": "string",
+        "value": "7.70%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40.30%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmLogin",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgKony",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "i82f23aac23f4a94ad9b2957b42b621e",
+    "name": "kony.ui.Image2",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "srcType": 1,
+    "wType": "Image",
+    "zindex": 1
+}

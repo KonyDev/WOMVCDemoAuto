@@ -1,0 +1,35 @@
+{
+    "AS_Button_cc9d114c1df7457c9296cf578ec5b669": {
+        "id": "AS_Button_cc9d114c1df7457c9296cf578ec5b669",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewWO",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cab236d28c7744419c40fc322f24882b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a9430fd3f1174b8ebc8ee8f99d8db38c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRequestWO",
+            "formKUID": "be8b29dd4f5e45fdaf6d4fe498da4d19",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true,
+            "package": "WorkOrderDesktop"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_a2802496cf5342df853dfefc4e1606c0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var workOrder = {};\nworkOrder[\"WorkOrderId\"]=getRandBtw(WO_MIN,WO_MAX);\nworkOrder[\"WorkOrderTitle\"]=this.view.txtWoTitle.text;\nworkOrder[\"WorkOrderDesc\"]=this.view.txtWoDesc.text;\nworkOrder[\"WorkOrderAddress\"]=this.view.txtWoAdd.text;\nworkOrder[\"Status\"]=WO_NEW;\n    \nthis.createWorkOrder(workOrder);",
+            "callbackType": null
+        }]
+    }
+}

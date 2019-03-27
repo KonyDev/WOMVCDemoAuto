@@ -1,0 +1,39 @@
+{
+    "AS_Image_d5503a16fc5e4d549b88d378c68a5f5b": {
+        "id": "AS_Image_d5503a16fc5e4d549b88d378c68a5f5b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "u6d3729306fd46b296b4381c9b2c43fa",
+            "name": "uwu6d3729306fd46b296b4381c9b2c43fa",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__efa5fc1c1e08458c9297d334b86c7b32",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.imgDelete.setVisibility(false);\nthis.view.btnDone.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___cde6b7f09d0244aebcad3f13af1228cd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickDelete",
+            "display": "onClickDelete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

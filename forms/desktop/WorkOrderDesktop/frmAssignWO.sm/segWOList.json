@@ -1,0 +1,283 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "john.smith@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sr. Engineer"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "John Smith"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "cathey.jones@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Manager"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cathey Jones"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "lora.davis@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Technician"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lora Davis"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "emily.vierling@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": " Manager"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Emily Vierling"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "kelly.brook@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sr. Engineer"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kelly Brook "
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "james.lack@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Technician"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "James Lack"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "john.smith@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Technician"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bredon Cruise"
+            }
+        },
+        {
+            "btnAssign": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Assign"
+            },
+            "lblTcEmail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": " matt.james@acme.com"
+            },
+            "lblTcMobileNo": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "+1-234-567-8900 "
+            },
+            "lblTcRole": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Technician"
+            },
+            "lblTcUser": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Matt James"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "87%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "27px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "56px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "alternaterowskin": "s49cdb05016b4f90bf7b3efd0c45805d",
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "07",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "ccebd82be15b4fac88ea3f82e64a2d0f",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segWOList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "e90c4b51aeb1446f9caf7a28f26361c5",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmAssignWO",
+    "retainselection": false,
+    "rowTemplateId": "ccebd82be15b4fac88ea3f82e64a2d0f",
+    "rowcounter": 7,
+    "rowfocusskin": "s856a1259ebb4e5f92ff69c2c60f0293",
+    "rowskin": "s25b6f0faf324d588389814232912eb4",
+    "rowtemplate": "FBox00bb86d91e75545",
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s17ad5bc50324fc9a74b7096348ef59e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "e8e8e800",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxNew012af1364c93244": "CopyflxNew012af1364c93244",
+        "CopyflxWOCreatedDate0fbf91d2b2d924d": "CopyflxWOCreatedDate0fbf91d2b2d924d",
+        "CopyflxWOName0d5d65f96fa684c": "CopyflxWOName0d5d65f96fa684c",
+        "CopyflxWOStatus08f5362b5b35741": "CopyflxWOStatus08f5362b5b35741",
+        "CopyflxWOTech0f13c0ac92c6046": "CopyflxWOTech0f13c0ac92c6046",
+        "btnAssign": "btnAssign",
+        "lblTcEmail": "lblTcEmail",
+        "lblTcMobileNo": "lblTcMobileNo",
+        "lblTcRole": "lblTcRole",
+        "lblTcUser": "lblTcUser"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,36 @@
+{
+    "AS_Image_idedd71491464177a0248e318b902111": {
+        "id": "AS_Image_idedd71491464177a0248e318b902111",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "u6d3729306fd46b296b4381c9b2c43fa",
+            "name": "uwu6d3729306fd46b296b4381c9b2c43fa",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j73f9697025f487393bccaafadcab36c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onImgClick",
+            "display": "onImgClick",
+            "inputparams": [{
+                "name": "obj",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

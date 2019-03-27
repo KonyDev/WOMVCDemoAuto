@@ -1,0 +1,28 @@
+{
+    "AS_Form_d35b041d49a246e48bcfccb490980f2b": {
+        "id": "AS_Form_d35b041d49a246e48bcfccb490980f2b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j4361cc599ad46d9b69e933b1520eb45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d2856ed1b89449aa8da8be12759b67c2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getCurrentTimeForCreateUpdate",
+            "display": "getCurrentTimeForCreateUpdate",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizBrowser",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_type_": 3,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 69,
+    "detecttelnumber": true,
+    "enablenativecommunication": false,
+    "htmlstring": "Please select filters to display the analysis.",
+    "id": "brwReports",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g68c2ea7f5124f2882f27aac8cb7c8b2",
+    "margininpixel": false,
+    "method": "get",
+    "name": "kony.ui.Browser",
+    "paddinginpixel": false,
+    "parent": "flxChart1",
+    "pf": "frmReportsWO",
+    "requesturlconfig": {
+        "URL": "http://google.com",
+        "requestMethod": "get"
+    },
+    "screenlevelwidget": false,
+    "url": "",
+    "wType": "Browser",
+    "zindex": 1
+}

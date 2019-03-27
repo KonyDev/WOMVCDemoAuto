@@ -1,0 +1,59 @@
+{
+    "BusinessControllerConfig": {
+        "CommandHandler": [],
+        "BusinessControllerClass": "WorkOrderDesktop/BusinessControllers/BusinessController"
+    },
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationExtensions": [],
+            "PresentationControllerClass": "WorkOrderDesktop/PresentationControllers/PresentationController"
+        }
+    },
+    "Forms": {
+        "desktop": {
+            "frmWOList": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmWOListController",
+                "FormName": "WorkOrderDesktop/frmWOList"
+            },
+            "frmRequestWO": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmRequestWOController",
+                "FormName": "WorkOrderDesktop/frmRequestWO"
+            },
+            "frmReportsWO": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmReportsWOController",
+                "FormName": "WorkOrderDesktop/frmReportsWO"
+            },
+            "frmLogin": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmLoginController",
+                "FormName": "WorkOrderDesktop/frmLogin"
+            },
+            "frmAssignWO": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmAssignWOController",
+                "FormName": "WorkOrderDesktop/frmAssignWO"
+            },
+            "frmAddWO": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmAddWOController",
+                "FormName": "WorkOrderDesktop/frmAddWO"
+            },
+            "frmViewWO": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrderDesktop/frmViewWOController",
+                "FormName": "WorkOrderDesktop/frmViewWO"
+            }
+        }
+    },
+    "ModuleName": "WorkOrderDesktop"
+}

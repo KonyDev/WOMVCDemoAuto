@@ -1,0 +1,33 @@
+{
+    "AS_Button_ie6b0e0eb0ca44cc8ac3741ab8087292": {
+        "id": "AS_Button_ie6b0e0eb0ca44cc8ac3741ab8087292",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "u6d3729306fd46b296b4381c9b2c43fa",
+            "name": "uwu6d3729306fd46b296b4381c9b2c43fa",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f777fb8226874ed8a8db92b693a23a82",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.imgDelete.setVisibility(true);\nthis.view.btnDone.setVisibility(false);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___h7bd7a9bd2cc4d2383b3deb5d3c79d7c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickDone",
+            "display": "onClickDone",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "source": "controller"
+        }]
+    }
+}

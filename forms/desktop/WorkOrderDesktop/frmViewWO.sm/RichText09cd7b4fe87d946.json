@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "38px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9d400fa88f34194a2e2ac852b8c792a",
+    "_text_": "<label style='color:#1aa3d7'>Work Order </label><label style='color:#5b5b5b'>/ Add New Work Order </label>",
+    "_top_": {
+        "type": "string",
+        "value": "52px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "RichText09cd7b4fe87d946",
+    "ide_onClick": "AS_RichText_ed8f82c12d0541f79462b4a18d650ff2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g85205d34a4d4cf1a2dfb8a8e13f8965",
+    "linkskin": "sdf8328ae27a4b7d88cec71d0697695f",
+    "name": "kony.ui.RichText",
+    "onclick": "AS_RichText_ed8f82c12d0541f79462b4a18d650ff2",
+    "parent": "flxSubHeader",
+    "pf": "frmViewWO",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,27 @@
+{
+    "AS_TextField_b41c4c5206f34b19bfd1b09b7c96a629": {
+        "id": "AS_TextField_b41c4c5206f34b19bfd1b09b7c96a629",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmRequestWO",
+            "type": "forms",
+            "platform": "",
+            "KUID": "be8b29dd4f5e45fdaf6d4fe498da4d19"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ff9eef80dabc4ff28c3626788f7f74f5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "controllerScope.view.lblErrMsg.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

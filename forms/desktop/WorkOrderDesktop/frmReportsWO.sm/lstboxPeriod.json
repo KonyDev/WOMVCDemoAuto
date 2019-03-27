@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb82ad6613fd465882d51e9b954740a0",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmReportsWO",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "lstboxPeriod",
+    "ide_onSelection": "AS_ListBox_h91657d4e8a04b1cac5d579911a6821e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e35aa787e2964f73a2da2990040f4ee3",
+    "masterdata": [
+        [
+            "Six Months",
+            "6 Months"
+        ],
+        [
+            "One Week",
+            "1 Week"
+        ],
+        [
+            "One Month",
+            "1 Month"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "onselection": "AS_ListBox_h91657d4e8a04b1cac5d579911a6821e",
+    "paddinginpixel": false,
+    "parent": "flxName",
+    "pf": "frmReportsWO",
+    "selectedkey": "Six Months",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "Six Months",
+        "6 Months"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

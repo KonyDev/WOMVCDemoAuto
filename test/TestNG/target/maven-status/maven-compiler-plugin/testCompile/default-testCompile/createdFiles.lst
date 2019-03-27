@@ -1,0 +1,11 @@
+test\WOMVCDemo\tests\LoginTests.class
+test\WOMVCDemo\forms\frmNotifications.class
+test\WOMVCDemo\forms\frmWrkOrdDetails.class
+test\WOMVCDemo\forms\frmLogin.class
+test\WOMVCDemo\forms\frmWorkOrder.class
+test\WOMVCDemo\tests\HomeTests.class
+test\WOMVCDemo\WOMVCDemoBaseTest.class
+test\WOMVCDemo\forms\frmHome.class
+test\WOMVCDemo\WOMVCDemoWidgetNames.class
+test\WOMVCDemo\WOMVCDemoWidgetId.class
+test\WOMVCDemo\forms\frmSubscription.class

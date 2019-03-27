@@ -1,0 +1,12 @@
+
+{
+
+    "NSAppTransportSecurity" :
+    {
+        "NSAllowsArbitraryLoads" : true
+    } 
+ 
+    //"NSCameraUsageDescription" : "This is a dummy description"
+
+}
+

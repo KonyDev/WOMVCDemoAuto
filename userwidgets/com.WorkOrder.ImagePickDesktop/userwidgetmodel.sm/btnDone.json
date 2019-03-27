@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s73011fbd716443a96ad0be607a9d16d",
+    "_text_": "DONE",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8d759b073bd40c088d3d7365b6b087a",
+    "id": "btnDone",
+    "ide_onClick": "AS_Button_g0aefae0f30b4f34b77f239db2c80f00",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "a0a107fed0004ac99421488511ddccc2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_g0aefae0f30b4f34b77f239db2c80f00",
+    "parent": "ImagePickDesktop",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

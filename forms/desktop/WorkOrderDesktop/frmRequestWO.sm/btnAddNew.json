@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "31px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s66db1529b78413a94e2b91fa53f40b7",
+    "_text_": "Request",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sf56c1825533441dace3bb6dc29380bf"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s66db1529b78413a94e2b91fa53f40b7",
+    "id": "btnAddNew",
+    "ide_onClick": "AS_Button_a01972f4e90e4291bdfe73db6bff1548",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d7b3deff0ebe49a79b155f10e8fb70b2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a01972f4e90e4291bdfe73db6bff1548",
+    "paddinginpixel": false,
+    "parent": "CopyflxName02b0af50e5a5748",
+    "pf": "frmRequestWO",
+    "wType": "Button",
+    "zindex": 1
+}

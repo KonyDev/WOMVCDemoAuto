@@ -1,0 +1,30 @@
+{
+    "AS_Image_a2074371be474b088bf68db494c87373": {
+        "id": "AS_Image_a2074371be474b088bf68db494c87373",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abd82e77b3274380aa0df5a3714c17cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__g12d7498df5342ad8f17865cb97d00b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToForm(\"frmSubscription\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

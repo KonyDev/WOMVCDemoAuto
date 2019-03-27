@@ -1,0 +1,53 @@
+{
+    "BusinessControllerConfig": {
+        "CommandHandler": [],
+        "BusinessControllerClass": "WorkOrder/BusinessControllers/BusinessController"
+    },
+    "PresentationControllerConfig": {
+        "Default": {
+            "PresentationExtensions": [],
+            "PresentationControllerClass": "WorkOrder/PresentationControllers/PresentationController"
+        }
+    },
+    "Forms": {
+        "mobile": {
+            "frmHome": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrder/frmHomeController",
+                "FormName": "WorkOrder/frmHome"
+            },
+            "frmLogin": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrder/frmLoginController",
+                "FormName": "WorkOrder/frmLogin"
+            },
+            "frmNotifications": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrder/frmNotificationsController",
+                "FormName": "WorkOrder/frmNotifications"
+            },
+            "frmSubscription": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrder/frmSubscriptionController",
+                "FormName": "WorkOrder/frmSubscription"
+            },
+            "frmWorkOrder": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrder/frmWorkOrderController",
+                "FormName": "WorkOrder/frmWorkOrder"
+            },
+            "frmWrkOrdDetails": {
+                "ControllerExtensions": [],
+                "FormController": "kony.mvc.MDAFormController",
+                "Controller": "WorkOrder/frmWrkOrdDetailsController",
+                "FormName": "WorkOrder/frmWrkOrdDetails"
+            }
+        }
+    },
+    "ModuleName": "WorkOrder"
+}

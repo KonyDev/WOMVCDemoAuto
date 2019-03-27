@@ -1,0 +1,23 @@
+{
+    "AS_Button_b8265d99747640868a0646c9303d9126": {
+        "id": "AS_Button_b8265d99747640868a0646c9303d9126",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWOList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a16fae5b1fdf44988360df374139826d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_g656686534e6461a83ba2d9ac46683f4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxSendReminder.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_g9b1ec7904184ae480afdda126ee41f6": {
+        "id": "AS_Button_g9b1ec7904184ae480afdda126ee41f6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f72ac22ad0b84d0da5e4d82930f544c9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e75f67f6ae8f45c696bc0d4d96cdd5a7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.txtUser.text == \"\" || this.view.textPasscode.text == \"\")\n  {\n  var alertBasic = {message:\"Username/Password cannot be empty\",\n                    alertTitle:\"Kony\",\n                    alertType:constants.ALERT_TYPE_ERROR};\n  var alertPSP = {};\n   kony.ui.Alert(alertBasic, alertPSP);\n  }\n  \nelse{\nkony.model.ApplicationContext.showLoadingScreen(\"Logging in...\");\nthis.login();\n}\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

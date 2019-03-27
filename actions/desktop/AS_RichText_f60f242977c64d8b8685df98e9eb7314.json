@@ -1,0 +1,30 @@
+{
+    "AS_RichText_f60f242977c64d8b8685df98e9eb7314": {
+        "id": "AS_RichText_f60f242977c64d8b8685df98e9eb7314",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "linktext"
+        }, {
+            "datatype": "string",
+            "name": "attributes"
+        }],
+        "contextObj": {
+            "name": "frmAssignWO",
+            "type": "forms",
+            "platform": "",
+            "KUID": "je1267d6c5fe4241896f2832c0a20706"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dcf180e041ea41eeafde24147e2d6f95",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToForm(\"frmWOList\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

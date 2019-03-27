@@ -1,0 +1,17 @@
+{
+    "AS_Button_i9476f4fd1ef47f294b91bf8aa694c9e": {
+        "id": "AS_Button_i9476f4fd1ef47f294b91bf8aa694c9e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_gba8eea6025b40a880c6784eac00a83f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.bulkPush();\nthis.view.flxSendReminder.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

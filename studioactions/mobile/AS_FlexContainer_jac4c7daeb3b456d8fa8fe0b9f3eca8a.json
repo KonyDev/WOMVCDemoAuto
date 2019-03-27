@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_jac4c7daeb3b456d8fa8fe0b9f3eca8a": {
+        "id": "AS_FlexContainer_jac4c7daeb3b456d8fa8fe0b9f3eca8a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWrkOrdDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "iff731394d604d84b82cb30c09b8fb75"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___i07a8605ae604f91b8c3046db70a7b26",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "abd82e77b3274380aa0df5a3714c17cd",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "WorkOrder"
+        }]
+    }
+}

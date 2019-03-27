@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "31px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "_skin_": "s24e4475e7164805b242b61c8f05c832",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s9a8d703fbe5431d927467d81ab2b781"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s24e4475e7164805b242b61c8f05c832",
+    "id": "btnAddNew",
+    "ide_onClick": "AS_Button_f34ce8afe9bb457891f8fd4cff5f35f2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e8b5222b09c34c8da80dce01a2377ee7",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f34ce8afe9bb457891f8fd4cff5f35f2",
+    "paddinginpixel": false,
+    "parent": "CopyflxName02b0af50e5a5748",
+    "pf": "frmAddWO",
+    "wType": "Button",
+    "zindex": 1
+}

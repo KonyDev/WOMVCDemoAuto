@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1ac613f14ee48b5aed4c8a7cd0beb3f",
+    "_text_": "Assign",
+    "_width_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sb99210a9a7b4111ac3b6843797e66c8"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s1ac613f14ee48b5aed4c8a7cd0beb3f",
+    "id": "btnAssign",
+    "ide_onClick": "AS_Button_j83d392eacce4e06804f71588942e876",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gb19a994a08c4b4494df49cfeea687ba",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_j83d392eacce4e06804f71588942e876",
+    "paddinginpixel": false,
+    "parent": "flxWOTech0cf54aba553a342",
+    "pf": "newWO",
+    "wType": "Button",
+    "zindex": 1
+}

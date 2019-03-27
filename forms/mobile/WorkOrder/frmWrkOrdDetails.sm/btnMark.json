@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8.20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdf33f094dff4d89a61cff0107c0b300",
+    "_text_": "MARK COMPLETED",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81.60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se60754a4636403b87f91df2344371f4",
+    "id": "btnMark",
+    "ide_onClick": "AS_Button_dd40fe1a4bbd4ea2ab3a255f2e8ffad2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f9861e12d0fa4cb08a7ca5723f48313a",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_dd40fe1a4bbd4ea2ab3a255f2e8ffad2",
+    "parent": "flxMain",
+    "pf": "frmWrkOrdDetails",
+    "wType": "Button",
+    "zindex": 3
+}

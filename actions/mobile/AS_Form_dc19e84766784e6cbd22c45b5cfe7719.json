@@ -1,0 +1,24 @@
+{
+    "AS_Form_dc19e84766784e6cbd22c45b5cfe7719": {
+        "id": "AS_Form_dc19e84766784e6cbd22c45b5cfe7719",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abd82e77b3274380aa0df5a3714c17cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dbdf26d6171742d7bc4c64382981732b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"check\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

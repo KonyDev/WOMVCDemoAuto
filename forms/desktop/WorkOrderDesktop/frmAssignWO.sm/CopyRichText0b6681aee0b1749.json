@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "38px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9d400fa88f34194a2e2ac852b8c792a",
+    "_text_": "<label style='color:#1aa3d7 '>Work Order </label><label style='color:#686868'>/ Assign </label>",
+    "_top_": {
+        "type": "string",
+        "value": "52px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "CopyRichText0b6681aee0b1749",
+    "ide_onClick": "AS_RichText_f60f242977c64d8b8685df98e9eb7314",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b300d293e59e43388ac479ad66271110",
+    "name": "kony.ui.RichText",
+    "onclick": "AS_RichText_f60f242977c64d8b8685df98e9eb7314",
+    "parent": "flxSubHeader",
+    "pf": "frmAssignWO",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

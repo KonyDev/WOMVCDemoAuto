@@ -1,0 +1,30 @@
+{
+    "AS_Image_bd11b0ba03f34987a369c26dbe1a6627": {
+        "id": "AS_Image_bd11b0ba03f34987a369c26dbe1a6627",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f72ac22ad0b84d0da5e4d82930f544c9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f232c3305678407d9b7d03d405c84a67",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if((this.view.imgSubscribe.src).toString().search(\"icon_switch_on\") >=0){\nthis.view.imgSubscribe.src = \"icon_switch_off.png\";  \n}  \nelse{\n  this.view.imgSubscribe.src = \"icon_switch_on.png\";  \n}\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

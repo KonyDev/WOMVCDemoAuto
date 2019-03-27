@@ -1,0 +1,43 @@
+{
+    "AS_Image_if077627b9344e3b97c35ef71e5b57ce": {
+        "id": "AS_Image_if077627b9344e3b97c35ef71e5b57ce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abd82e77b3274380aa0df5a3714c17cd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c2cf36f6c34e424b9adf306f410ca5e4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "formKUID": "f72ac22ad0b84d0da5e4d82930f544c9",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true,
+            "formConfig": "frmLoginConfig",
+            "package": "WorkOrder"
+        }, {
+            "id": "ADD_SNIPPET__dd07c65024064c31a7f25720ce0f1cbb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "clearAuthCreds();\nthis.navigateToForm(\"frmLogin\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

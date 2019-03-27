@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12.00%"
+    },
+    "_skin_": "s663db8ebded4c07b212079b8d0f75ed",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s663db8ebded4c07b212079b8d0f75ed",
+    "id": "btnSubscription",
+    "ide_onClick": "AS_Button_e569c2498cd34253958508981d377204",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h5502b0b603e4a5fa3233a4271866438",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e569c2498cd34253958508981d377204",
+    "parent": "flxHeader",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}

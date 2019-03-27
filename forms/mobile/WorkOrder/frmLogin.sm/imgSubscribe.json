@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_skin_": "s34e7dd279fe425d80923921d1d9e014",
+    "_src_": "icon_switch_off.png",
+    "_width_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmLogin",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgSubscribe",
+    "ide_onTouchStart": "AS_Image_bd11b0ba03f34987a369c26dbe1a6627",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "ebe7463e63f44888be2c13949b4827e8",
+    "name": "kony.ui.Image2",
+    "ontouchstart": "AS_Image_bd11b0ba03f34987a369c26dbe1a6627",
+    "parent": "FlexContainer0869506974b7a4a",
+    "pf": "frmLogin",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

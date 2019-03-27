@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Password",
+    "_skin_": "sc8eafe173414f5d90c9728cb66490c6",
+    "_text_": "Kony@1234",
+    "_top_": {
+        "type": "string",
+        "value": "4.90%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "focusskin": "sc8eafe173414f5d90c9728cb66490c6",
+    "id": "textPasscode",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": false,
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "cdc701797f7641919b3f5f3d562b89a8",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "flxLogin",
+    "pf": "frmLogin",
+    "placeholderskin": "s4d936ca1837407093c05e993088ffab",
+    "securetextentry": true,
+    "showclearbutton": false,
+    "showoprogressindicator": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

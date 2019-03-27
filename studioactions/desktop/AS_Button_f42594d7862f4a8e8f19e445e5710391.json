@@ -1,0 +1,27 @@
+{
+    "AS_Button_f42594d7862f4a8e8f19e445e5710391": {
+        "id": "AS_Button_f42594d7862f4a8e8f19e445e5710391",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "FBox00bb86d91e75545",
+            "type": "templates",
+            "platform": "",
+            "KUID": "ccebd82be15b4fac88ea3f82e64a2d0f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d0bcd6bb9d8b4cbfaa6feb7f7615ce54",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//deskTopInit();\nthis.executeOnParent(\"onAssign\",context.rowIndex);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
